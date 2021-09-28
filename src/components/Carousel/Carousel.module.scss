@@ -1,0 +1,35 @@
+%btn-common {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgba(250, 250, 250, 0.185);
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    transition: all ease-out 0.4s;
+    z-index: 100;
+    
+}
+
+.left {
+    margin-right: -50px;
+}
+.right{
+    margin-left: -50px;
+}
+.wrapper{
+  display: flex;
+}
+.sliderWrapper {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  height: 90vh;
+  margin: 40px auto;
+  border: 2px solid rgba(255, 255, 255, 0.226);
+  .btn {
+   @extend %btn-common;
+    &:hover {
+      background-color: rgba(201, 187, 186, 0.616);
+    }
+  }
+}

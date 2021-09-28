@@ -1,22 +1,27 @@
 export const myImages = [
   {
-    label: "First",
+    label: "First Picture",
     imgPath:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4VdYJufKr1KbT3e0WcnQ0A6b7XW3Wg7FvA&usqp=CAU",
+      "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-saturn.jpg?t=tn2400",
   },
   {
-    label: "Second",
+    label: "Second Picture",
     imgPath:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRor9Yz6KhQmojO47Jd7stTYDvxC9DPtX4G-8e3frUlV2WTOy3TNtywi-6qifNA__lD7A&usqp=CAU",
+      "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-eta-carinae.jpg?t=tn2400",
   },
   {
-    label: "Third",
+    label: "Third Picture",
     imgPath:
-      "https://snappygoat.com/b/32fb1051945fba80d10d57a4d3cd482da9652636",
+      "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-veil-nebula.jpg?t=tn2400",
   },
   {
-    label: "Four",
+    label: "Fourth Picture",
     imgPath:
-      "https://cdn.pixabay.com/photo/2015/12/04/16/52/background-image-1076750_640.jpg",
+      "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-cats-eye.jpg?t=tn2400",
+  },
+  {
+    label: "Fifth Picture",
+    imgPath:
+      "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-monkey-head.jpg?t=tn2400",
   },
 ];
